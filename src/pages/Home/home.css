@@ -1,0 +1,13 @@
+.titulo{
+    color: orange;
+    margin-top: 40px;
+}
+
+.carde{
+    margin-top: 300px;
+    border: 1px solid #ccc; /* Borda sólida com cor cinza */
+
+}
+.imagemdefundo{
+    margin-top: 200px;
+}
